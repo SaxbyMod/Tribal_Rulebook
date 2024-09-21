@@ -1,0 +1,15 @@
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\Tribal Rulebook.csproj.AssemblyReference.cache
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\PluginInfo.cs
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\Tribal Rulebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\Tribal Rulebook.AssemblyInfoInputs.cache
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\Tribal Rulebook.AssemblyInfo.cs
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\Tribal Rulebook.csproj.CoreCompileInputs.cache
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\Tribal Rulebook.sourcelink.json
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\bin\Release\netstandard2.0\TribalRulebook.deps.json
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\bin\Release\netstandard2.0\TribalRulebook.dll
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\bin\Release\netstandard2.0\TribalRulebook.pdb
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\bin\Release\netstandard2.0\InscryptionAPI.dll
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\bin\Release\netstandard2.0\InscryptionCommunityPatch.dll
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\Tribal R.15086B26.Up2Date
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\TribalRulebook.dll
+C:\Users\Thinc\Source\Repos\Tribal_Rulebook\obj\Release\netstandard2.0\TribalRulebook.pdb

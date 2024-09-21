@@ -1,0 +1,6 @@
+C:\Users\Thinc\source\repos\Tribal_Rulebook\obj\Debug\netstandard2.0\Tribal Rulebook.csproj.AssemblyReference.cache
+C:\Users\Thinc\source\repos\Tribal_Rulebook\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\Thinc\source\repos\Tribal_Rulebook\obj\Debug\netstandard2.0\Tribal Rulebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinc\source\repos\Tribal_Rulebook\obj\Debug\netstandard2.0\Tribal Rulebook.AssemblyInfoInputs.cache
+C:\Users\Thinc\source\repos\Tribal_Rulebook\obj\Debug\netstandard2.0\Tribal Rulebook.AssemblyInfo.cs
+C:\Users\Thinc\source\repos\Tribal_Rulebook\obj\Debug\netstandard2.0\Tribal Rulebook.csproj.CoreCompileInputs.cache
