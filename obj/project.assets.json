@@ -2886,17 +2886,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thinc\\Source\\Repos\\Tribal_Rulebook\\Tribal Rulebook.csproj",
+      "projectUniqueName": "C:\\Users\\Thinc\\source\\repos\\Tribal_Rulebook\\Tribal Rulebook.csproj",
       "projectName": "TribalRulebook",
-      "projectPath": "C:\\Users\\Thinc\\Source\\Repos\\Tribal_Rulebook\\Tribal Rulebook.csproj",
+      "projectPath": "C:\\Users\\Thinc\\source\\repos\\Tribal_Rulebook\\Tribal Rulebook.csproj",
       "packagesPath": "C:\\Users\\Thinc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thinc\\Source\\Repos\\Tribal_Rulebook\\obj\\",
+      "outputPath": "C:\\Users\\Thinc\\source\\repos\\Tribal_Rulebook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Thinc\\Source\\Repos\\Tribal_Rulebook\\NuGet.Config",
+        "C:\\Users\\Thinc\\source\\repos\\Tribal_Rulebook\\NuGet.Config",
         "C:\\Users\\Thinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -2924,8 +2924,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "netstandard2.0": {
@@ -2975,7 +2976,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

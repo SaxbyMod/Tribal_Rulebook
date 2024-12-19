@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Adds a rulebook for tribes.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaf21522537c16e6141d2ec9ca8276dc2b534702")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2da45e0afd496b62069fd050f2b38f0d771e0a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TribalRulebook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TribalRulebook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
